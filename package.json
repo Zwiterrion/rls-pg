@@ -1,0 +1,14 @@
+{
+  "name": "auth-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "5.0.1",
+    "pg": "^8.10.0",
+    "pg-pool": "^3.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
